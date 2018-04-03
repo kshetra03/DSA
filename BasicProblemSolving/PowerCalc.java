@@ -1,3 +1,5 @@
+package BasicProblemSolving;
+
 public class PowerCalc {
 
     public static void main(String[] args) {
